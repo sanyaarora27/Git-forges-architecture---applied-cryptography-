@@ -1,1 +1,1 @@
-# Git-forges-architecture---applied-cryptography-
+# Git-forges-architecture-applied-cryptography
